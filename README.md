@@ -62,7 +62,6 @@ Se utilizaron asistentes de Inteligencia Artificial generativa como apoyo para o
 | Organización del trabajo | ¿Cómo ordeno la documentación y presento las distintas partes de la Entrega 4 junto con las Entregas 1, 2 y 3? | Puse los enlaces en la primera página, incluí las entregas anteriores como anexos sin modificar y definí yo la estructura de carpetas del repositorio. |
 | Modelado BPMN | ¿Cómo represento las actividades, los responsables y las decisiones del proceso de envío con pools y lanes? | Definí los lanes según mi organigrama (Entrega 3), agregué el lane del sistema, limité las compuertas a dos excepciones y alineé los estados con mi diccionario de datos. |
 | Historias de usuario | Revisá la redacción y los criterios de aceptación de estas historias de usuario. | Ajusté los criterios para usar los campos del diccionario de datos y la meta de 3 segundos de la Entrega 2. |
-| Revisión final | Revisá esta consigna y decime si mi TP está bien para entregar. | Contrasté las observaciones con las capturas del repositorio y corregí las inconsistencias detectadas. |
 
 ### Control de errores y revisión
 
